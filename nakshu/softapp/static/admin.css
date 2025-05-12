@@ -1,0 +1,39 @@
+
+<DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Administration</title>
+<link rel="stylesheet" href="admin.css">
+</head>
+<body>
+<header>
+  <h1>Our Team</h1>
+</header>
+<nav>
+  <a href="index.html">Home</a>
+  <a href="menu.html">Menu</a>
+  <a href="admin.html">Administration</a>
+  <a href="contact.html">Contact Us</a>
+</nav>
+<div class="container">
+  <div class="team">
+    <!-- Repeat for 6 members -->
+    <div class="member">
+      <img src="demi.jpg" alt="Chef">
+      <h3>Demi david</h3>
+      <p>Head Chef</p>
+    </div>
+    <div class="member">
+      <img src="max.jpg" alt="Manager">
+      <h3>Max jemima</h3>
+      <p>Manager</p>
+    <!-- 4 more -->
+  </div>
+</div>
+<footer>
+  <p>Website designed by nakshu</p>
+</footer>
+</body>
+</html>
+
